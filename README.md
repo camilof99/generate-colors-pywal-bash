@@ -1,0 +1,1 @@
+# generate-colors-pywal-bash
